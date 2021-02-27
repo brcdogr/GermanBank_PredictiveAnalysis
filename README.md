@@ -1,5 +1,9 @@
 # GermanBank_PredictiveAnalysis
 Graduate Degree Project in R | Predictive Analysis on German Credit Card Dataset
+
+Developed Logistic Regression and Decision Tree predictive models to provide bank manager guidance for making a decision whether to approve a loan to an applicant based on his/her profiles.
+
+
 ---
 title: "MSBA2_GERMANCREDITCARD"
 author: "Burju Dogru"
